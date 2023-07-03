@@ -49,6 +49,7 @@ export default struct VideoPage {
         this.classifyScroller.scrollToIndex(index);
       }
     }
+
   }
 
   build() {
