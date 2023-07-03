@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/register",
+    "pages/home",
+    "pages/1",
+    "pages/2",
+    "pages/3",
+    "pages/loading",
+    "pages/MainPage",
+    "pages/IndexPage",
+    "pages/VideoPage",
+    "pages/SearchPage",
+    "pages/video"
+  ]
+}
